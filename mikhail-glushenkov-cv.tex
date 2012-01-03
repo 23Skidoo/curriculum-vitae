@@ -1,0 +1,97 @@
+\documentclass[margin,line]{res}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[bookmarksnumbered, unicode, pdftex]{hyperref}
+
+\oddsidemargin -.5in
+\evensidemargin -.5in
+\textwidth=6.0in
+\itemsep=0in
+\parsep=0in
+
+\renewcommand{\namefont}{\LARGE\bf}
+
+\begin{document}
+
+\name{Mikhail Glushenkov \vspace*{.1in}}
+
+\begin{resume}
+\section{\sc Contact Information}
+\vspace{.05in}
+\begin{tabular}{@{}p{2in}p{4in}}
+{\it Phone:}  +46738067025  &
+{\it E-mail:} \href{mailto:the.dead.shall.rise@gmail.com}{\texttt{the.dead.shall.rise@gmail.com}}\\
+{\it Skype:}  \texttt{viginti\_tres} & {\it WWW:} \url{http://dissocial.st}            \\
+\end{tabular}
+
+\section{\sc Work Experience}
+
+{\bf Haskell.org} \hfill {\it Summer 2011, Google Summer of Code Student}\\
+Worked on parallelising Cabal, a system for building and packaging Haskell
+libraries and programs. My patches make it possible to build several Cabal
+packages in parallel.
+
+{\bf Codedgers Inc.} \hfill {\it December 2007-May 2011, Software Engineer}\\
+Worked on Morpher (\url{http://morpher.com/}), an LLVM-based code
+obfuscator. Wrote a generic compiler driver (\texttt{llvmc}). Implemented a
+dynamic software watermarking tool suite. Did some work on the antivirus
+project.
+
+{\bf Goha.ru} \hfill {\it 2006-2007, Newswriter and Community Manager}\\
+Responsibilities included journalistic work and management of one of the biggest
+Russian MMORPG communities.
+
+% {\bf Misc. freelance work} \hfill {\it 2005-2007}\\
+% Included writing a GUI forum client in wxPython and some simple OpenGL apps in
+% C++.
+
+\section{\sc Education}
+{\bf Umeå University}, Umeå, Sweden\\
+MSc(Eng) in Computer Science, December 2012 (expected)
+
+{\bf Technical University of Denmark}, Copenhagen, Denmark\\
+Types at Work Summer School (\url{http://typesatwork.imm.dtu.dk/}), August 2009
+
+\section{\sc Portfolio}
+
+{\bf ghc-parmake}, 2011-now \hfill \url{https://github.com/23Skidoo/ghc-parmake}\\
+A parallel driver for the GHC Haskell Compiler. It can build a Haskell
+program in parallel using multiple cores (à la \texttt{make -j}). Used as a
+drop-in replacement for \texttt{ghc --make}.
+
+{\bf Haskell Platform}, 2009-now \hfill \url{http://hackage.haskell.org/platform/}\\
+The Haskell Platform is a single, standard Haskell distribution for every
+system, in the form of a blessed library and tool suite for Haskell. I maintain
+the Windows installer.
+
+% http://goo.gl/67nKm
+{\bf llvmc}, 2007-2011 \hfill \url{http://llvm.org/releases/2.9/docs/CompilerDriver.html}\\
+A generic compiler driver, designed to be customizable and extensible. Used to
+be a part of the LLVM project.
+
+{\bf Open source}\\ I contributed patches to various open source projects including
+Doxygen, LLVM, Boost, el-get, Cabal and mkcabal. I'm
+\href{https://github.com/23Skidoo/}{\texttt{23Skidoo}} on GitHub.
+
+{\bf Blog}, 2011-now \hfill \url{http://dissocial.st/blog}
+
+\section{\sc Skills}
+
+{\bf Programming Languages:} Proficient in Haskell, C++, C, Python. Familiar
+with Ocaml, Java, Lua, Assembly (x86/MIPS/AVR), Coq, Scheme, Matlab, SQL, UNIX
+shell scripting. \\
+{\bf Tools:} Emacs, Git, SVN, MSVC, NSIS, etc.\\
+{\bf Platforms:} UNIX-like (preferable), Win32.
+
+\section{\sc Certifications}
+
+\href{http://www.brainbench.com/transcript.jsp?pid=5078355}
+{Brainbench Certificate in C++}, 2008-12-01.
+
+\section{\sc Misc}
+
+Right to work in EU. Willing to relocate.
+
+\end{resume}
+\end{document}
