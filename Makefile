@@ -1,4 +1,4 @@
-mikhail-glushenkov-cv.pdf : mikhail-glushenkov-!cv.tex
+mikhail-glushenkov-cv.pdf : mikhail-glushenkov-cv.tex
 	pdflatex $<
 
 clean :
