@@ -2,3 +2,7 @@ reference
 /auto/
 *.pdf
 *.log
+*.gz
+*.aux
+*.fls
+*.fdb_latexmk
