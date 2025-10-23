@@ -1,6 +1,7 @@
 reference
 /auto/
 *.pdf
+*.docx
 *.log
 *.gz
 *.aux
