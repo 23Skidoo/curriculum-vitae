@@ -27,7 +27,7 @@ years building high-throughput pricing and data platforms on AWS.
 - Built automated PySpark ETL pipelines processing 1M+ records daily for reporting and
 analytics, ensuring data quality across systems.
 - Mentored new joiners on the codebase, team workflows, and best practices.
-  
+
 **Technologies**: Rust, Elixir/OTP, TypeScript, gRPC, GraphQL, PostgreSQL, Redis, DynamoDB, Kafka, AWS, Databricks, PySpark, Kubernetes.
 
 [**Scrive AB**](https://scrive.com) — Back-end Developer (2016–2020)
