@@ -4,7 +4,7 @@ London, UK | +44 7535 520964 | [mikhail.glushenkov@gmail.com](mailto:mikhail.glu
 
 ## Professional Summary
 
-Full-Stack Engineer specializing in Rust, Elixir, and distributed systems. 5+
+Full-Stack Engineer specialising in Rust, Elixir, and distributed systems. 5+
 years building high-throughput pricing and data platforms on AWS.
 
 ## Skills
@@ -13,7 +13,7 @@ years building high-throughput pricing and data platforms on AWS.
       with C++, Clojure, Go, Elm, Kotlin, Java, OCaml, Python, Scala, TypeScript.
 - **Backend**: gRPC, GraphQL, REST APIs, microservices, distributed systems.
 - **Data**: PostgreSQL, Redis, DynamoDB, Kafka, Spark, Databricks.
-- **Infrastructure**: AWS (ECS, Lambda, RDS), Kubernetes, Docker, Terraform, Pulumi.
+- **Infrastructure**: AWS (ECS, Lambda, RDS,) Kubernetes, Docker, Terraform, Pulumi.
 - **Observability**: Datadog, OpenTelemetry.
 
 ## Work Experience
@@ -28,7 +28,8 @@ years building high-throughput pricing and data platforms on AWS.
 analytics, ensuring data quality across systems.
 - Mentored new joiners on the codebase, team workflows, and best practices.
 
-**Technologies**: Rust, Elixir/OTP, TypeScript, gRPC, GraphQL, PostgreSQL, Redis, DynamoDB, Kafka, AWS, Databricks, PySpark, Kubernetes.
+**Technologies**: Rust, Elixir/OTP, Python, TypeScript, gRPC, GraphQL,
+PostgreSQL, Redis, DynamoDB, Kafka, AWS, Databricks, PySpark, Kubernetes.
 
 [**Scrive AB**](https://scrive.com) — Back-end Developer (2016–2020)
 - Developed and maintained the Scrive e-signing platform and related services.
