@@ -4,8 +4,8 @@ London, UK | +44 7535 520964 | [mikhail.glushenkov@gmail.com](mailto:mikhail.glu
 
 ## Professional Summary
 
-Full-Stack Engineer specialising in Rust, Elixir, and distributed systems. 5+
-years building high-throughput pricing and data platforms on AWS.
+Backend Engineer with 5+ years building high-throughput platforms.
+Experience with functional and systems programming languages, distributed systems, and cloud infrastructure on AWS.
 
 ## Skills
 
